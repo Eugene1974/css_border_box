@@ -1,6 +1,11 @@
 div {
   height: 300px;
   width: 200px;
+  /* float: left; */
+}
+
+.float {
+  font-size: 35px;
 }
 
 .a {
@@ -8,6 +13,8 @@ div {
   border-width: 10px;
   border-color: grey;
   border-style: inset;
+  float: left;
+  margin: 20px 30px 10px;
 }
 
 .b {
